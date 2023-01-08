@@ -750,7 +750,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 176,
-											"top": -192,
+											"top": -160,
 											"width": 64.32080078125,
 											"height": 13,
 											"text": "«interface»"
@@ -763,7 +763,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 493,
-											"top": 406,
+											"top": 422,
 											"width": 195.5458984375,
 											"height": 13,
 											"text": "Tentativa de Acesso de Usuário"
@@ -777,7 +777,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 176,
-											"top": -192,
+											"top": -160,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -791,14 +791,14 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 176,
-											"top": -192,
+											"top": -160,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 488,
-									"top": 399,
+									"top": 415,
 									"width": 205.5458984375,
 									"height": 25,
 									"stereotypeLabel": {
@@ -826,7 +826,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 88,
-									"top": -96,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -842,7 +842,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 88,
-									"top": -96,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -858,7 +858,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 88,
-									"top": -96,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -874,7 +874,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 88,
-									"top": -96,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								}
@@ -882,7 +882,7 @@
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 488,
-							"top": 376,
+							"top": 392,
 							"width": 205.5458984375,
 							"height": 49,
 							"stereotypeDisplay": "icon",
@@ -925,8 +925,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 531,
-									"top": 366,
+									"left": 532,
+									"top": 377,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -946,8 +946,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 531,
-									"top": 351,
+									"left": 533,
+									"top": 362,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -967,8 +967,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 530,
-									"top": 395,
+									"left": 529,
+									"top": 406,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -986,7 +986,7 @@
 								"$ref": "AAAAAAGFkWtJ2892wNA="
 							},
 							"lineStyle": 1,
-							"points": "484:388;578.77294921875:387.2180009860437",
+							"points": "484:394;578.77294921875:402.12799605582524",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFkW8Ly9DFbTQ="
@@ -1019,8 +1019,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 567,
-									"top": 430,
+									"left": 624,
+									"top": 452,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1040,8 +1040,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 552,
-									"top": 428,
+									"left": 614,
+									"top": 463,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1061,8 +1061,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 596,
-									"top": 435,
+									"left": 645,
+									"top": 431,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1080,7 +1080,7 @@
 								"$ref": "AAAAAAGFkW99f9DwgRk="
 							},
 							"lineStyle": 1,
-							"points": "577:480;588.7368421052631:399",
+							"points": "671:482;599.7894736842105:415",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFkW86g9DdaWY="
@@ -1113,7 +1113,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 545.464111328125,
+									"left": 648.464111328125,
 									"top": 466.5,
 									"width": 31.07177734375,
 									"height": 13,
@@ -1131,7 +1131,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 551,
+									"left": 654,
 									"top": 456.5,
 									"height": 13,
 									"alpha": 2.356194490192345,
@@ -1148,7 +1148,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 561,
+									"left": 664,
 									"top": 495.5,
 									"height": 13,
 									"alpha": -2.356194490192345,
@@ -1159,7 +1159,7 @@
 								"$ref": "AAAAAAGFkWtksc+hEAM="
 							},
 							"font": "Arial;13;0",
-							"left": 569,
+							"left": 672,
 							"top": 481,
 							"width": 15,
 							"height": 15,
@@ -1675,7 +1675,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 545.464111328125,
+									"left": 608.464111328125,
 									"top": 522.5,
 									"width": 31.07177734375,
 									"height": 13,
@@ -1693,7 +1693,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 551,
+									"left": 614,
 									"top": 512.5,
 									"height": 13,
 									"alpha": 2.356194490192345,
@@ -1710,7 +1710,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 561,
+									"left": 624,
 									"top": 551.5,
 									"height": 13,
 									"alpha": -2.356194490192345,
@@ -1721,7 +1721,7 @@
 								"$ref": "AAAAAAGFkXFJQ9ElS3Y="
 							},
 							"font": "Arial;13;0",
-							"left": 569,
+							"left": 632,
 							"top": 537,
 							"width": 15,
 							"height": 15,
@@ -1756,8 +1756,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 590,
-									"top": 509,
+									"left": 671,
+									"top": 518,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1777,8 +1777,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 605,
-									"top": 509,
+									"left": 683,
+									"top": 527,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1798,8 +1798,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 561,
-									"top": 510,
+									"left": 646,
+									"top": 501,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1817,7 +1817,7 @@
 								"$ref": "AAAAAAGFkW99f9DwgRk="
 							},
 							"lineStyle": 1,
-							"points": "576:496;576:536",
+							"points": "673:496;645:536",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFkXVIp9IZF1E="
@@ -2542,7 +2542,7 @@
 											"top": 694,
 											"width": 174.8271484375,
 											"height": 13,
-											"text": "Dados de Busca por Veículo"
+											"text": "Dados de Busca por Carro"
 										},
 										{
 											"_type": "LabelView",
@@ -2819,7 +2819,7 @@
 											"top": 806,
 											"width": 186.38623046875,
 											"height": 13,
-											"text": "Dados de Cadastro de Veículo"
+											"text": "Dados de Cadastro de Carro"
 										},
 										{
 											"_type": "LabelView",
@@ -3370,7 +3370,7 @@
 											"top": 1012,
 											"width": 114.87353515625,
 											"height": 13,
-											"text": "Banco de Veículos"
+											"text": "Banco de Carros"
 										},
 										{
 											"_type": "LabelView",
@@ -4022,7 +4022,7 @@
 											"top": 934,
 											"width": 108.3544921875,
 											"height": 13,
-											"text": "Dados do Veículo"
+											"text": "Dados do Carro"
 										},
 										{
 											"_type": "LabelView",
@@ -5680,7 +5680,7 @@
 											"top": 670,
 											"width": 164.962890625,
 											"height": 13,
-											"text": "Avaliação Usuário-Usuário"
+											"text": "Avaliação"
 										},
 										{
 											"_type": "LabelView",
@@ -7975,9 +7975,9 @@
 											"font": "Arial;13;1",
 											"left": 957,
 											"top": 1230,
-											"width": 152.42626953125,
+											"width": 153.15625,
 											"height": 13,
-											"text": "Validação do pagamento"
+											"text": "Validação do Pagamento"
 										},
 										{
 											"_type": "LabelView",
@@ -8010,7 +8010,7 @@
 									"font": "Arial;13;0",
 									"left": 952,
 									"top": 1223,
-									"width": 162.42626953125,
+									"width": 163.15625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFkZnMMdluEVE="
@@ -8094,7 +8094,7 @@
 							"containerChangeable": true,
 							"left": 952,
 							"top": 1200,
-							"width": 162.42626953125,
+							"width": 163.15625,
 							"height": 49,
 							"stereotypeDisplay": "icon",
 							"nameCompartment": {
@@ -8136,7 +8136,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 973,
+									"left": 974,
 									"top": 1259,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -8157,7 +8157,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 961,
+									"left": 962,
 									"top": 1250,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -8178,7 +8178,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 996,
+									"left": 997,
 									"top": 1278,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -8197,7 +8197,7 @@
 								"$ref": "AAAAAAGFkZfAz9iZGgc="
 							},
 							"lineStyle": 1,
-							"points": "946:1327;1025.3684210526317:1223",
+							"points": "946:1327;1026.3684210526317:1223",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFkZnMi9mVdQo="
@@ -8311,7 +8311,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1045,
+									"left": 1046,
 									"top": 1141,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -8332,7 +8332,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1060,
+									"left": 1061,
 									"top": 1141,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -8353,7 +8353,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1016,
+									"left": 1017,
 									"top": 1142,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -8372,7 +8372,7 @@
 								"$ref": "AAAAAAGFkZoV0NmskoI="
 							},
 							"lineStyle": 1,
-							"points": "1031:1096;1032:1200",
+							"points": "1031:1096;1033:1200",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFkZpMxNnczIA="
@@ -8988,7 +8988,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Dados de Busca por Veículo"
+					"name": "Dados de Busca por Carro"
 				},
 				{
 					"_type": "UMLInterface",
@@ -8996,7 +8996,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Dados de Cadastro de Veículo"
+					"name": "Dados de Cadastro de Carro"
 				},
 				{
 					"_type": "UMLComponent",
@@ -9041,7 +9041,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Banco de Veículos",
+					"name": "Banco de Carros",
 					"ownedElements": [
 						{
 							"_type": "UMLDependency",
@@ -9065,7 +9065,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Dados do Veículo"
+					"name": "Dados do Carro"
 				},
 				{
 					"_type": "UMLInterface",
@@ -9173,7 +9173,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Avaliação Usuário-Usuário"
+					"name": "Avaliação"
 				},
 				{
 					"_type": "UMLInterface",
@@ -9329,7 +9329,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Validação do pagamento"
+					"name": "Validação do Pagamento"
 				}
 			]
 		}
