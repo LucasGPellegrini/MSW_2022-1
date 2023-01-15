@@ -10,7 +10,7 @@
  
  # Concepção da aplicação
  
- <div align="center">___Car Business___</div>
+ <div align="center"><em>Car Business</em></div>
  
  O “Car Business”é a ideiade uma plataformaweb e mobile que intermediará compras e vendas de carros usados ou não. O objetivo do sistema é ajudar a divulgar e encontrar veículos a venda. O sistema não se responsabilizará por procedências do veículo, pagamento etc. A aplicação é inspirada na OLX.
 1. Usuários:
